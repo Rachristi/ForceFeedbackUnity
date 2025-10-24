@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - smallObject
+  - Axe
+  - TreeStump
+  - Log
   layers:
   - Default
   - TransparentFX

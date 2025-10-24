@@ -3,6 +3,18 @@
 # =============== #
 [Ll]ibrary/
 [Tt]emp/
+*/.vscode/
+*/Assets/AwesomeFreeScans
+*/Assets/Axe
+*/Assets/GreenBugGames
+*/Assets/YughuesFreeCobbleMaterials
+*/Assets/YughuesFreeConcreteMaterials
+*/Assets/YughuesFreeFabricMaterials
+*/Assets/YughuesFreeFlooringMaterials
+*/Assets/YughuesFreeGroundMaterials
+*/Assets/YughuesFreeManmadeMaterials
+*/Assets/YughuesFreeNatureMaterials
+
 .buildDate
 *.Unity.csproj
 *.Unity.Editor.csproj
